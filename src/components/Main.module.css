@@ -4,10 +4,11 @@
     box-sizing: border-box;
     background-color: #57596c;
     color: #61DAFB;
+    font-size: 39px;
+    letter-spacing: -0.03rem;
 }
 
 .main__listItem {
     font-size: 1.5rem;
-    display: block;
-    padding: 10px;
-}
+    /* display: block; */
+    line-height: 20px;}
