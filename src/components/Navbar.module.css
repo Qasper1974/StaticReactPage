@@ -1,0 +1,25 @@
+
+
+ul {
+    padding:0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+ul > li {
+    padding: 20px;
+    padding-right: 100px;
+}
+
+img {
+    width: 60px;
+    padding-left: 100px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkgoldenrod;
+
+}
