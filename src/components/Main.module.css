@@ -3,12 +3,23 @@
     padding: 57px 27px;
     box-sizing: border-box;
     background-color: #57596c;
-    color: #61DAFB;
+    color: whitesmoke;
     font-size: 39px;
     letter-spacing: -0.03rem;
+}
+
+.title {
+    padding-left: 150px;
 }
 
 .main__listItem {
     font-size: 1.5rem;
     /* display: block; */
-    line-height: 20px;}
+    line-height: 60px;
+    margin-left: 200px;
+}
+
+.main__listItem::marker {
+    color: #61DAFB;
+    font-size: 30px;
+} 
