@@ -1,8 +1,10 @@
 import React from "react";
 
+import styles from "./Footer.module.css";
+
 const Footer = () => {
     return (
-        <small> © 2022 Faems development. All rights reserved.</small>
+        <small className={styles.footer}> © 2022 Faems development. All rights reserved.</small>
     )
 }
 

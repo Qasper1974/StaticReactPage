@@ -1,0 +1,13 @@
+.container, .title {
+    margin: 0;
+    padding: 57px 27px;
+    box-sizing: border-box;
+    background-color: #57596c;
+    color: #61DAFB;
+}
+
+.main__listItem {
+    font-size: 1.5rem;
+    display: block;
+    padding: 10px;
+}

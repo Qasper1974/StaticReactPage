@@ -8,11 +8,8 @@ const Navbar = () => {
     return (
         <nav className={styles.nav}>
             <img src={ReactLogo} className={styles.img} />
-            <ul className={styles.ul}>
-                <li className={styles.li}>Pricing</li>
-                <li className={styles.li}>About</li>
-                <li className={styles.li}>Contact</li>
-            </ul>
+            <h1>React Facts</h1>
+            <h2>Static React Page</h2>
         </nav>
     )
 }
