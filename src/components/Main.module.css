@@ -1,11 +1,17 @@
 .container, .title {
     margin: 0;
-    padding: 57px 27px;
+    padding-top: 37px;
     box-sizing: border-box;
     background-color: #57596c;
     color: whitesmoke;
     font-size: 39px;
     letter-spacing: -0.03rem;
+}
+
+.container {
+    background-image: url('../images/logo192.png') ;
+    background-repeat: no-repeat;
+    background-position: 70% 70%;
 }
 
 .title {
